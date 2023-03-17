@@ -3,7 +3,7 @@
 [![Miftahul Haq](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=36&duration=3800&pause=1800&color=31AADF&vCenter=true&width=370&height=45&lines=Miftahul+Haq;Call+Me%2C+Miftah)](https://git.io/typing-svg)
 
 
-## 🎓 I'm Jubayer Riyad Web Design & Developer!!
+## 🎓 I'm Miftahul Haq Web Design & Developer!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Reactjs
@@ -21,17 +21,12 @@
 
 <br/>
 
-<div>
-<img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" align="center" width="100%">
-</div>
-
-
 
 ## Description ##
 
 [![Travis CI](https://travis-ci.org/pantheon-systems/wp-redis.svg?branch=master)](https://travis-ci.org/pantheon-systems/wp-redis) [![CircleCI](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master.svg?style=svg)](https://circleci.com/gh/pantheon-systems/wp-redis/tree/master)
 
-### Talk with Jubayer Riyad, I am kinda awesome:
+### Talk with Miftahul Haq, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="holisitc_developer | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="holisitc_developer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -55,7 +50,7 @@
 <br />
 
 
-## Jubayer Riyad favorite tools and technologies ⚙️ 
+## Miftahul Haq favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -250,12 +245,12 @@
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JubayerRiyad&show_icons=true&locale=en" alt="JubayerRiyad" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfth12&show_icons=true&locale=en" alt="mfth12" width="300" />
 </p>
 <br/>
 
 
-[![JubayerRiyad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JubayerRiyad&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/JubayerRiyad/github-readme-activity-graph)
+[![mfth12's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mfth12&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/mfth12/github-readme-activity-graph)
 
 <br/>
 <br/>
@@ -264,9 +259,9 @@
 
 
 
-## :trophy: Jubayer Riyad Github Stats:
+## :trophy: Miftahul Haq Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JubayerRiyad&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfth12&theme=github_dark) 
 
 
 
@@ -275,26 +270,26 @@
 
 <p align="center">
     
-<a href="https://github.com/JubayerRiyad/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=JubayerRiyad">
+<a href="https://github.com/mfth12/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mfth12">
 </a>
-    <a href="https://github.com/JubayerRiyad?tab=followers">
-        <img src="https://img.shields.io/github/followers/JubayerRiyad?label=Followers&style=social" alt="GitHub Badge">
+    <a href="https://github.com/mfth12?tab=followers">
+        <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: JubayerRiyad Visitor's Count" /></p> 
+<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: mfth12 Visitor's Count" /></p> 
 
 
 
 
-[website]: JubayerRiyad.com
-[linkedin]: https://www.linkedin.com/in/JubayerRiyad/
-[twitter]: https://www.whitter.com/JubayerRiyad/
-[youtube]: https://www.youtube.com/@JubayerRiyad/
+[website]: mfth12.com
+[linkedin]: https://www.linkedin.com/in/mfth12/
+[twitter]: https://www.whitter.com/mfth12/
+[youtube]: https://www.youtube.com/@mfth12/
 [instagram]: https://www.instagram.com/jubayer_riyad/
-[github]: https://www.github.com/JubayerRiyad/
-[portfolio]: https://www.behance.net/JubayerRiyad/
-[behance]: https://www.behance.net/JubayerRiyad/
-[dribbble]: https://www.dribbble.com/JubayerRiyad/
-[tiktok]: https://www.tiktok.com/@jubayerriyad/
+[github]: https://www.github.com/mfth12/
+[portfolio]: https://www.behance.net/mfth12/
+[behance]: https://www.behance.net/mfth12/
+[dribbble]: https://www.dribbble.com/mfth12/
+[tiktok]: https://www.tiktok.com/@mfth12/
