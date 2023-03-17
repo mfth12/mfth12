@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Jubayer Riyad](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Call+me+Jubayer+Riyad;JubayerRiyad)
+[![Miftahul Haq](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=36&duration=3800&pause=1800&color=31AADF&vCenter=true&width=370&height=45&lines=Miftahul+Haq;Call+Me%2C+Miftah)](https://git.io/typing-svg)
 
 
 ## 🎓 I'm Jubayer Riyad Web Design & Developer!!
