@@ -249,15 +249,10 @@
 </p>
 <br/>
 
-
 [![mfth12's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mfth12&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/mfth12/github-readme-activity-graph)
 
 <br/>
 <br/>
-
-
-
-
 
 ## :trophy: Miftahul Haq Github Stats:
 
@@ -271,15 +266,3 @@
         <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
-
-<p align="center"></p> 
-[website]: mfth12.com
-[linkedin]: https://www.linkedin.com/in/mfth12/
-[twitter]: https://www.whitter.com/mfth12/
-[youtube]: https://www.youtube.com/@mfth12/
-[instagram]: https://www.instagram.com/mfth12d/
-[github]: https://www.github.com/mfth12/
-[portfolio]: https://www.behance.net/mfth12/
-[behance]: https://www.behance.net/mfth12/s
-[dribbble]: https://www.dribbble.com/mfth12/
-[tiktok]: https://www.tiktok.com/@mfth12/
