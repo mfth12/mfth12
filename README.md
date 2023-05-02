@@ -266,7 +266,7 @@
 
 
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%">&nbsp; Views and Followers :eyes:</h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Views and Followers :eyes:</h2>
 
 <p align="center">
     
