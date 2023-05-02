@@ -266,7 +266,7 @@
 
 
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100%">&nbsp; Views and Followers :eyes:</h2>
 
 <p align="center">
     
@@ -287,9 +287,9 @@
 [linkedin]: https://www.linkedin.com/in/mfth12/
 [twitter]: https://www.whitter.com/mfth12/
 [youtube]: https://www.youtube.com/@mfth12/
-[instagram]: https://www.instagram.com/jubayer_riyad/
+[instagram]: https://www.instagram.com/mfth12d/
 [github]: https://www.github.com/mfth12/
 [portfolio]: https://www.behance.net/mfth12/
-[behance]: https://www.behance.net/mfth12/
+[behance]: https://www.behance.net/mfth12/s
 [dribbble]: https://www.dribbble.com/mfth12/
 [tiktok]: https://www.tiktok.com/@mfth12/
