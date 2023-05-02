@@ -263,26 +263,16 @@
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfth12&theme=github_dark) 
 
-
-
-
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; Views and Followers :eyes:</h2>
-
 <p align="center">
-    
-<a href="https://github.com/mfth12/github-profile-views-counter">
+    <a href="https://github.com/mfth12/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mfth12">
-</a>
+    </a>
     <a href="https://github.com/mfth12?tab=followers">
         <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/github-profile-views-counter/count.svg"  alt="roland :: mfth12 Visitor's Count" /></p> 
-
-
-
-
+<p align="center"></p> 
 [website]: mfth12.com
 [linkedin]: https://www.linkedin.com/in/mfth12/
 [twitter]: https://www.whitter.com/mfth12/
