@@ -13,7 +13,9 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
-## :trophy: Miftahul Haq Github Stats:
+
+<br />
+## :trophy: My Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfth12&theme=github_dark) 
 <p align="center">
