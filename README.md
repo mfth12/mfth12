@@ -4,7 +4,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mfth12hq)
 [![Logo](https://komarev.com/ghpvc/?username=mfth12)](https://github.com/mfth12)
-
+[![Followers](https://img.shields.io/github/followers/mfth12?label=Followers&style=social)](https://github.com/mfth12?tab=followers)
 
 <p align="left">
     <a href="https://github.com/mfth12/github-profile-views-counter">
