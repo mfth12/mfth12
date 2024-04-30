@@ -13,15 +13,6 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
-### Skills:
-- Python, C, Java
-- HTML, CSS, JavaScript, jQuery & Bootstrap
-- PHP & mySQL (PHP Frameworks)
-- Shopify, eCommerce, Woocommerce
-- Public Speaking
-
-<br/>
-
 ## :trophy: Miftahul Haq Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfth12&theme=github_dark) 
