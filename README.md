@@ -4,6 +4,15 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mfth12hq)
 
+<p align="center">
+    <a href="https://github.com/mfth12/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mfth12">
+    </a>
+    <a href="https://github.com/mfth12?tab=followers">
+        <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
+
 ## 🎓 I'm Miftahul Haq Web Design & Developer!!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Portfolio.
@@ -19,18 +28,8 @@
 ## :trophy: My Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfth12&theme=github_dark) 
-<p align="center">
-    <a href="https://github.com/mfth12/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mfth12">
-    </a>
-    <a href="https://github.com/mfth12?tab=followers">
-        <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-</p>
-
 
 <br />
-
 
 ## My Favorite Tools and Technologies ⚙️ 
 
