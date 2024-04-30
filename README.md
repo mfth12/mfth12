@@ -2,9 +2,8 @@
 
 [![Miftahul Haq](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=36&duration=3800&pause=1800&color=31AADF&vCenter=true&width=370&height=45&lines=Miftahul+Haq;Call+Me%2C+Miftah)](https://git.io/typing-svg)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mfth12hq)
-
-<p align="center">
+<p align="left">
+    [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mfth12hq)
     <a href="https://github.com/mfth12/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mfth12">
     </a>
