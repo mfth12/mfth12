@@ -7,7 +7,7 @@
 [![Followers](https://img.shields.io/github/followers/mfth12?label=Followers&style=social)](https://github.com/mfth12?tab=followers)
 
 
-## 🎓 I'm Miftahul Haq Web Design & Developer!!
+## 🎓 I'm Developer and Cloud Architect
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning Reactjs
