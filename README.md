@@ -35,7 +35,7 @@
 ## My Favorite Tools and Technologies ⚙️ 
 
 
-<table align="center">
+<table align="left">
 
   <tr>
      <td align="center" width="96">
