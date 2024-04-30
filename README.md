@@ -6,14 +6,6 @@
 [![Logo](https://komarev.com/ghpvc/?username=mfth12)](https://github.com/mfth12)
 [![Followers](https://img.shields.io/github/followers/mfth12?label=Followers&style=social)](https://github.com/mfth12?tab=followers)
 
-<p align="left">
-    <a href="https://github.com/mfth12/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mfth12">
-    </a>
-    <a href="https://github.com/mfth12?tab=followers">
-        <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-</p>
 
 ## 🎓 I'm Miftahul Haq Web Design & Developer!!
 - ✍ You can find my projects here [portfolio]
