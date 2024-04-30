@@ -8,13 +8,11 @@
 
 
 ## 🎓 I'm Developer and Cloud Architect
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my Portfolio.
+- 🔭 I’m currently working on STIE Pembangunan Tanjungpinang projects
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
 <br />
