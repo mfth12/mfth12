@@ -22,6 +22,17 @@
 
 <br/>
 
+## :trophy: Miftahul Haq Github Stats:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfth12&theme=github_dark) 
+<p align="center">
+    <a href="https://github.com/mfth12/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mfth12">
+    </a>
+    <a href="https://github.com/mfth12?tab=followers">
+        <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
 
 ### Languages and Tools:
 
@@ -223,30 +234,3 @@
 </table>
 
 
-<br/>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfth12&show_icons=true&locale=en" alt="mfth12" width="50%" />
-</p>
-<br/>
-
-
-## :trophy: Miftahul Haq Github Stats:
-
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfth12&theme=github_dark) 
-
-
-<p align="center">
-    <a href="https://github.com/mfth12/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mfth12">
-    </a>
-    <a href="https://github.com/mfth12?tab=followers">
-        <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
-    </a>
-</p>
-
-
-
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mfth12&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=50% />
-</p>
