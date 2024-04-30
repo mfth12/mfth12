@@ -1,3 +1,4 @@
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mfth12hq)
 # Hi there 👋
 
 [![Miftahul Haq](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=36&duration=3800&pause=1800&color=31AADF&vCenter=true&width=370&height=45&lines=Miftahul+Haq;Call+Me%2C+Miftah)](https://git.io/typing-svg)
@@ -224,7 +225,7 @@
 
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfth12&show_icons=true&locale=en" alt="mfth12" width="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfth12&show_icons=true&locale=en" alt="mfth12" width="100%" />
 </p>
 <br/>
 
@@ -232,6 +233,7 @@
 ## :trophy: Miftahul Haq Github Stats:
 
 ![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mfth12&theme=github_dark) 
+
 
 <p align="center">
     <a href="https://github.com/mfth12/github-profile-views-counter">
@@ -241,3 +243,9 @@
         <img src="https://img.shields.io/github/followers/mfth12?label=Followers&style=social" alt="GitHub Badge">
     </a>
 </p>
+
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=mfth12&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=100% />
