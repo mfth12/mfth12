@@ -224,8 +224,8 @@
 
 
 <br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfth12&show_icons=true&locale=en" alt="mfth12" width="100%" />
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mfth12&show_icons=true&locale=en" alt="mfth12" width="50%" />
 </p>
 <br/>
 
@@ -247,5 +247,6 @@
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=mfth12&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=100% />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mfth12&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=50% />
+</p>
