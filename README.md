@@ -23,7 +23,7 @@
 
 <br />
 
-## My Favorite Tools and Technologies ⚙️ 
+## :gear: My Favorite Tools and Technologies
 
 
 <table align="left">
