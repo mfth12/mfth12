@@ -8,10 +8,9 @@
 
 
 ## 🎓 I'm Developer and Cloud Architect
-- 🔭 I’m currently working on STIE Pembangunan Tanjungpinang projects
+- 🔭 I’m currently working on STIE Pembangunan Tanjungpinang
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
 - 😄 Pronouns: Him/His
 
 
