@@ -7,9 +7,8 @@
 [![Followers](https://img.shields.io/github/followers/mfth12?label=Followers&style=social)](https://github.com/mfth12?tab=followers)
 
 
-## 🎓 I'm Developer and Cloud Architect
+## 🎓 I'm System Analyst and Cloud Architect
 - 🔭 I’m currently working on STIE Pembangunan Tanjungpinang
-- 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on open source
 - 😄 Pronouns: Him/His
 
